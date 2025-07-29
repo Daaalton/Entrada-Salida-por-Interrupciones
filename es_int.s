@@ -1,4 +1,4 @@
-* Proyecto Arquitectura, Grupo: 210052, Pablo García-Rojo Madrid	210069, Alejandro Gil Gimeno
+
 
 	ORG $0
 	DC.L $8000 * Valor inicial del puntero de pila
